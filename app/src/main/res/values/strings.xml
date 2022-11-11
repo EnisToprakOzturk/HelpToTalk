@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelpToTalk</string>
+    <string name="alarmbtn">alarmBtn</string>
+    <string name="speechbtn">speechBtn</string>
+    <string name="unesplogo">unespLogo</string>
+    <string name="resets_image_views">Resets image views</string>
+</resources>
